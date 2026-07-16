@@ -1,2 +1,2 @@
-# Global-Qiskit-Summer-School
+# Global-Qiskit-Summer-School 2026
 Qiskit programs 
